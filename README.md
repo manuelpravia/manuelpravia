@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hola 👋  soy Manuel / Ingeniero de sistemas ✨ </h1> 
 
-<!--
-**manuelpravia/manuelpravia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+Apasionado por el desarrollo backend, enfocado en crear soluciones robustas y escalables. Comprometido con la excelencia técnica y el aprendizaje continuo en tecnologías como Spring Boot, Java, MongoDB y más. ¡Bienvenido a mi repositorio!
 
-Here are some ideas to get you started:
+📫 Contacto: **praviapuri@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,idea,git,mongodb,docker,postman,dotnet,linux,typescript,angular" />
+  </a>
+</p>
+<br>
