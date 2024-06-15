@@ -12,7 +12,7 @@ Apasionado por el desarrollo backend, enfocado en crear soluciones robustas y es
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,reactivex,idea,git,mongodb,docker,postman,dotnet,linux,kafka,typescript,angular" />
+    <img src="https://skillicons.dev/icons?i=java,spring,reactivex,idea,git,mongodb,docker,postman,dotnet,linux,kafka,typescript,angular,py" />
   </a>
 </p>
 <br>
